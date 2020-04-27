@@ -1,0 +1,5 @@
+/media/kyle/FILES/CIT 110/M4/MusicSequencer/MusicSequencer/bin/Debug/MusicSequencer.exe
+/media/kyle/FILES/CIT 110/M4/MusicSequencer/MusicSequencer/bin/Debug/MusicSequencer.pdb
+/media/kyle/FILES/CIT 110/M4/MusicSequencer/MusicSequencer/obj/x86/Debug/MusicSequencer.csprojAssemblyReference.cache
+/media/kyle/FILES/CIT 110/M4/MusicSequencer/MusicSequencer/obj/x86/Debug/MusicSequencer.exe
+/media/kyle/FILES/CIT 110/M4/MusicSequencer/MusicSequencer/obj/x86/Debug/MusicSequencer.pdb
